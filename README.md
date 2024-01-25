@@ -1,0 +1,1 @@
+This project established a comprehensive credit risk modeling framework to assess multiple dimensions of credit risk, including the creation of three essential models: Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD), using Lending Club dataset containing all loans issued through 2007 to 2015.
